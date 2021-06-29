@@ -6,5 +6,6 @@
 
 ## list
 - remove elements:
+- sort a list: a = [1,2,1], then a.sort() --> a = [1,1,2]
 
 ## functions
