@@ -9,7 +9,7 @@
 |  136. Single Number  | 2021-06-28  |       |
 
 
-### Dynamic Programming
+### Recursion (Dynamic Programming)
 | index  | date | notes |
 |-------|------|-------|
 | 70. Climbing Stairs | 2021-06-28 |  +   |
