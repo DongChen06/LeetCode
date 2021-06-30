@@ -1,6 +1,10 @@
 ## Big O 
 - [cheat Sheet](https://www.bigocheatsheet.com/)
 
+## Recursion (Dynamic Programming)
+Following is an example of how to use *recursion* to solve the factorial problem.
+
+![image](https://user-images.githubusercontent.com/25771207/123892427-9106e700-d928-11eb-83b1-2d63ea48ab08.png)
 
 
 ## set
