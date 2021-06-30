@@ -8,6 +8,11 @@ Following is an example of how to use *recursion* to solve the factorial problem
 
 
 ## Python Items
+
+### Math
+- module, 12 % 7 = 5
+- division, 12 // 7 = 1;   12 / 7 = 1.714...
+
 ### set
 - Set items are unordered, unchangeable, and do not allow duplicate values.
 - It is a good tool to check duplicate.
