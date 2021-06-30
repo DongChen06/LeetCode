@@ -1,12 +1,15 @@
 ## LeetCode in Python
 
-### Arrays
+### Arrays (String)
 | index | date | notes |
 |-------|------|-------|
 |  212.Contains Duplicate    |  2021-06-26    |       |
 |  268.Missing Number  |  2021-06-27  | + |
 |  448.Find All Numbers Disappeared in an Array | 2021-06-27     |  run time error  |
 |  136. Single Number  | 2021-06-28  |       |
+|  344. Reverse String  | 2021-06-29 |      |
+|       |      |       |
+|       |      |       |
 
 
 ### Recursion (Dynamic Programming)
