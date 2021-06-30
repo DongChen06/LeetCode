@@ -1,3 +1,6 @@
+## Big O 
+- [cheat Sheet](https://www.bigocheatsheet.com/)
+
 
 
 ## set
