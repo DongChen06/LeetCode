@@ -13,6 +13,15 @@ Following is an example of how to use *recursion* to solve the factorial problem
 - module, 12 % 7 = 5
 - division, 12 // 7 = 1;   12 / 7 = 1.714...
 
+## String
+- startswith("xx"), e.g., 
+```
+str = "this is string example....wow!!!
+print(str.startswith( 'this' ))
+==> True
+```
+
+
 ### set
 - Set items are unordered, unchangeable, and do not allow duplicate values.
 - It is a good tool to check duplicate.
