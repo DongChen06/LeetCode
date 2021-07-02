@@ -9,8 +9,8 @@
 |  268.Missing Number (E)  |  2021-06-27  | + |
 |  448.Find All Numbers Disappeared in an Array  (E) | 2021-06-27     |  run time error  |
 |  136. Single Number (E)  | 2021-06-28  |       |
-|  344. Reverse String (E)  | 2021-06-29 |      |
-|       |      |       |
+|  344. Reverse String (E)  | 2021-06-29 | in-place |
+| 541. Reverse String II | 2021-07-01 | +   |
 |       |      |       |
 
 

@@ -10,8 +10,8 @@ Following is an example of how to use *recursion* to solve the factorial problem
 ## Python Items
 
 ### Math
-- module, 12 % 7 = 5
-- division, 12 // 7 = 1;   12 / 7 = 1.714...
+- module, `12 % 7 = 5`.
+- division, `12 // 7 = 1`;   `12 / 7 = 1.714...`.
 
 ## String
 - startswith("xx"), e.g., 
@@ -28,7 +28,8 @@ print(str.startswith( 'this' ))
 
 ### list
 - remove elements:
-- sort a list: a = [1,2,1], then a.sort() --> a = [1,1,2]
+- sort a list: `a = [1,2,1]`, then `a.sort()` --> `a = [1,1,2]`.
+- slice: reverse a list, `lst[::-1]`;
 
 
 ## Useful functions
