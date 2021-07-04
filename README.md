@@ -18,7 +18,7 @@
 | index  | date | notes |
 |-------|------|-------|
 | 70. Climbing Stairs (E)  | 2021-06-28 |  +   |
-|       |      |       |
+|121. Best Time to Buy and Sell Stock (E) |  2021-06-28 |  +   |
 |       |      |       |
 |       |      |       |
 
