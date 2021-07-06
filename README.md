@@ -1,6 +1,8 @@
 ## LeetCode in Python
 - E indicate Easy, M indicate Medium and H indicate Hard.
 - "+" means need to redo.
+- "-" means failed to solve.
+- "?" means cannot understand the purpose of this problem.
 
 ### Arrays (String)
 | index | date | notes |
@@ -19,8 +21,8 @@
 |-------|------|-------|
 | 70. Climbing Stairs (E)  | 2021-06-28 |  +   |
 |121. Best Time to Buy and Sell Stock (E) |  2021-06-28 |  +   |
-|53. Maximum Subarray | 2021-07-05 |   -  |
-|       |      |       |
+|53. Maximum Subarray (E) | 2021-07-05 |   -  |
+| 303. Range Sum Query - Immutable (E)| 2021-07-05 | ?   |
 
 
 ### Fast & Slow Pointers
