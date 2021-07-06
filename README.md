@@ -10,7 +10,7 @@
 |  448.Find All Numbers Disappeared in an Array  (E) | 2021-06-27     |  run time error  |
 |  136. Single Number (E)  | 2021-06-28  |       |
 |  344. Reverse String (E)  | 2021-06-29 | in-place |
-| 541. Reverse String II | 2021-07-01 | +   |
+| 541. Reverse String II (E) | 2021-07-01 | +   |
 |       |      |       |
 
 
@@ -19,7 +19,7 @@
 |-------|------|-------|
 | 70. Climbing Stairs (E)  | 2021-06-28 |  +   |
 |121. Best Time to Buy and Sell Stock (E) |  2021-06-28 |  +   |
-|       |      |       |
+|53. Maximum Subarray | 2021-07-05 |   -  |
 |       |      |       |
 
 
