@@ -33,3 +33,4 @@ print(str.startswith( 'this' ))
 
 
 ## Useful functions
+- check the type of variables: `isinstance(x, int)`.

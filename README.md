@@ -23,6 +23,8 @@
 |121. Best Time to Buy and Sell Stock (E) |  2021-06-28 |  +   |
 |53. Maximum Subarray (E) | 2021-07-05 |   -  |
 | 303. Range Sum Query - Immutable (E)| 2021-07-05 | ?   |
+|46. Permutations (M)|2021-07-06|  |
+
 
 
 ### Fast & Slow Pointers
