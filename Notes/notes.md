@@ -24,13 +24,25 @@ print(str.startswith( 'this' ))
 
 ### set
 - Set items are unordered, unchangeable, and do not allow duplicate values.
+  
 - It is a good tool to check duplicate.
 
 ### list
 - remove elements:
+  
 - sort a list: `a = [1,2,1]`, then `a.sort()` --> `a = [1,1,2]`.
+  
 - slice: reverse a list, `lst[::-1]`;
 
 
 ## Useful functions
 - check the type of variables: `isinstance(x, int)`.
+  
+- **bin()**: returns the binary string equivalent to the given integer. `e.g., bin(number) >> 0b101`, where
+`ob`  represents that the result is a binary string.
+  
+- The **count()** method returns the number of elements with the specified value. `e.g., list.count(value)`, where 
+The value can be any type (string, number, list, tuple, etc.). `e.g., a = '1231', a.count('1') >> 2` 
+
+-   
+  
