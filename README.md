@@ -1,10 +1,17 @@
-## LeetCode in Python
+# LeetCode in Python
 - E indicate Easy, M indicate Medium and H indicate Hard.
 - "+" means need to redo.
 - "-" means failed to solve.
 - "?" means cannot understand the purpose of this problem.
 
-### Arrays (String)
+
+## Contents
+* [Arrays](#arrays)
+* [Recursion (Dynamic Programming)](#recursion-(dynamic-programming))
+* [Fast & Slow Pointers](#fast-&-slow-pointers)
+
+
+## Arrays
 | index | date | notes |
 |-------|------|-------|
 |  212.Contains Duplicate (E) |  2021-06-26    |       |
@@ -16,7 +23,8 @@
 |       |      |       |
 
 
-### Recursion (Dynamic Programming)
+## Recursion (Dynamic Programming)
+
 | index  | date | notes |
 |-------|------|-------|
 | 70. Climbing Stairs (E)  | 2021-06-28 |  +   |
@@ -25,19 +33,20 @@
 | 303. Range Sum Query - Immutable (E)| 2021-07-05 | ?   |
 |46. Permutations (M)|2021-07-06|  |
 |322. Coin Change (M)|2021-07-08 | ++ |
+|338. Counting_Bits (E))|2021-07-08| bin operation|
 
 
+## Fast & Slow Pointers 
 
-### Fast & Slow Pointers
 | index | date | notes |
 |-------|------|-------|
-|      |   |       |
-|       |      |       |
+| 141. Linked List Cycle (E)|2021-07-09|       |
+| 876. Middle of the Linked List (E)| 2021-07-09 |       |
 |       |      |       |
 |       |      |       |
 
 
-### Binary Search
+## Binary Search
 | index| date | notes |
 |-------|------|-------|
 |       |   |       |
@@ -46,4 +55,4 @@
 |        |      |       |
 
 
-### 
+##

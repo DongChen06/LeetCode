@@ -1,5 +1,5 @@
-## Big O 
-- [cheat Sheet](https://www.bigocheatsheet.com/)
+
+
 
 ## Recursion (Dynamic Programming)
 Following is an example of how to use *recursion* to solve the factorial problem.
@@ -7,9 +7,12 @@ Following is an example of how to use *recursion* to solve the factorial problem
 ![image](https://user-images.githubusercontent.com/25771207/123892427-9106e700-d928-11eb-83b1-2d63ea48ab08.png)
 
 
-## Python Items
+# Python Items
 
-### Math
+## Big O 
+- [cheat Sheet](https://www.bigocheatsheet.com/)
+
+## Math
 - module, `12 % 7 = 5`.
 - division, `12 // 7 = 1`;   `12 / 7 = 1.714...`.
 
@@ -22,12 +25,12 @@ print(str.startswith( 'this' ))
 ```
 
 
-### set
+## set
 - Set items are unordered, unchangeable, and do not allow duplicate values.
   
 - It is a good tool to check duplicate.
 
-### list
+## list
 - remove elements:
   
 - sort a list: `a = [1,2,1]`, then `a.sort()` --> `a = [1,1,2]`.
@@ -35,7 +38,15 @@ print(str.startswith( 'this' ))
 - slice: reverse a list, `lst[::-1]`;
 
 
-## Useful functions
+# Linked Lists (Fast Slow Pointers)
+
+## Singly Linked Lists
+![img.png](imgs/img.png)
+
+## Doubly Linked Lists
+![img_1.png](imgs/img_1.png)
+
+# Useful functions
 - check the type of variables: `isinstance(x, int)`.
   
 - **bin()**: returns the binary string equivalent to the given integer. `e.g., bin(number) >> 0b101`, where
