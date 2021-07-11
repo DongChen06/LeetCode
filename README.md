@@ -42,7 +42,7 @@
 |-------|------|-------|
 | 141. Linked List Cycle (E)|2021-07-09|       |
 | 876. Middle of the Linked List (E)| 2021-07-09 |       |
-|       |      |       |
+| 206. Reverse Linked List (E)| 2021-07-10 |  +   |
 |       |      |       |
 
 
