@@ -37,6 +37,7 @@ print(str.startswith( 'this' ))
   
 - slice: reverse a list, `lst[::-1]`;
 
+- pop(index), the default value is -1.
 
 # Linked Lists (Fast Slow Pointers)
 

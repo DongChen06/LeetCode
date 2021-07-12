@@ -3,12 +3,13 @@
 - "+" means need to redo.
 - "-" means failed to solve.
 - "?" means cannot understand the purpose of this problem.
+- "^" means needing a faster solution.
 
 
 ## Contents
 * [Arrays](#arrays)
-* [Recursion (Dynamic Programming)](#recursion-(dynamic-programming))
-* [Fast & Slow Pointers](#fast-&-slow-pointers)
+* [Recursion and Dynamic Programming](#recursion-and-dynamic-programming)
+* [Fast and Slow Pointers](#fast-and-slow-pointers)
 
 
 ## Arrays
@@ -20,10 +21,10 @@
 |  136. Single Number (E)  | 2021-06-28  |       |
 |  344. Reverse String (E)  | 2021-06-29 | in-place |
 | 541. Reverse String II (E) | 2021-07-01 | +   |
-|       |      |       |
+| 566. Reshape the Matrix (E)| 2021-07-11 | ^  |
 
 
-## Recursion (Dynamic Programming)
+## Recursion and Dynamic Programming
 
 | index  | date | notes |
 |-------|------|-------|
@@ -36,14 +37,14 @@
 |338. Counting_Bits (E))|2021-07-08| bin operation|
 
 
-## Fast & Slow Pointers 
+## Fast and Slow Pointers 
 
 | index | date | notes |
 |-------|------|-------|
 | 141. Linked List Cycle (E)|2021-07-09|       |
 | 876. Middle of the Linked List (E)| 2021-07-09 |       |
 | 206. Reverse Linked List (E)| 2021-07-10 |  +   |
-|       |      |       |
+| 19. Remove Nth Node From End of List (M)| 2021-07-11 |       |
 
 
 ## Binary Search
