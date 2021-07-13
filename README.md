@@ -22,6 +22,9 @@
 |  344. Reverse String (E)  | 2021-06-29 | in-place |
 | 541. Reverse String II (E) | 2021-07-01 | +   |
 | 566. Reshape the Matrix (E)| 2021-07-11 | ^  |
+|        |      |       |
+|        |      |       |
+
 
 
 ## Recursion and Dynamic Programming
@@ -35,6 +38,9 @@
 |46. Permutations (M)|2021-07-06|  |
 |322. Coin Change (M)|2021-07-08 | ++ |
 |338. Counting_Bits (E))|2021-07-08| bin operation|
+| 198. House Robber (M)| 2021-07-12 | +  |
+|        |      |       |
+
 
 
 ## Fast and Slow Pointers 
@@ -45,7 +51,10 @@
 | 876. Middle of the Linked List (E)| 2021-07-09 |       |
 | 206. Reverse Linked List (E)| 2021-07-10 |  +   |
 | 19. Remove Nth Node From End of List (M)| 2021-07-11 |       |
-
+|234. Palindrome Linked List (E)|2021-07-12|  |
+|        |      |       |
+|        |      |       |
+|        |      |       |
 
 ## Binary Search
 | index| date | notes |
