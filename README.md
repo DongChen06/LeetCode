@@ -22,7 +22,7 @@
 |  344. Reverse String (E)  | 2021-06-29 | in-place |
 | 541. Reverse String II (E) | 2021-07-01 | +   |
 | 566. Reshape the Matrix (E)| 2021-07-11 | ^  |
-|        |      |       |
+| 66. Plus One (E)| 2021-07-14 |       |
 |        |      |       |
 
 
