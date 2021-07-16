@@ -39,6 +39,16 @@ print(str.startswith( 'this' ))
 
 - pop(index), the default value is -1.
 
+## String
+- The **replace()** method replaces a specified phrase with another specified phrase. 
+  `e.g., s="she is a mother",  s.replace(" ", "") >> "sheisamother"`
+
+- The lower() method returns a string where all characters are lower case.
+    'e.g., s="She is A Mother",  s.lower() >> "she is a mother"'
+
+
+
+
 # Linked Lists (Fast Slow Pointers)
 
 ## Singly Linked Lists
@@ -46,6 +56,8 @@ print(str.startswith( 'this' ))
 
 ## Doubly Linked Lists
 ![img_1.png](imgs/img_1.png)
+
+
 
 # Useful functions
 - check the type of variables: `isinstance(x, int)`.
@@ -56,5 +68,7 @@ print(str.startswith( 'this' ))
 - The **count()** method returns the number of elements with the specified value. `e.g., list.count(value)`, where 
 The value can be any type (string, number, list, tuple, etc.). `e.g., a = '1231', a.count('1') >> 2` 
 
--   
+- The **sorted()** function returns a sorted list of the specified iterable object. `e.g., sorted("acad") >> "aacd"`
+
+
   

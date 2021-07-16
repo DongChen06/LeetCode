@@ -23,9 +23,9 @@
 | 541. Reverse String II (E) | 2021-07-01 | +   |
 | 566. Reshape the Matrix (E)| 2021-07-11 | ^  |
 | 66. Plus One (E)| 2021-07-14 |       |
+|  268. Missing Number (E)| 2021-07-15|       |
+| 242. Valid Anagram (E)| 2021-07-15 |       |
 |        |      |       |
-
-
 
 ## Recursion and Dynamic Programming
 
@@ -40,7 +40,7 @@
 |338. Counting_Bits (E))|2021-07-08| bin operation|
 | 198. House Robber (M)| 2021-07-12 | +  |
 |        |      |       |
-
+|        |      |       |
 
 
 ## Fast and Slow Pointers 
