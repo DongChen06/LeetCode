@@ -56,6 +56,16 @@
 |        |      |       |
 |        |      |       |
 
+
+## Stack and Queue
+| index| date | notes |
+|-------|------|-------|
+| 20. Valid Parentheses (E)|2021-07-16 |       |
+| 232. Implement Queue using Stacks (E)|      |       |
+|        |      |       |
+|        |      |       |
+
+
 ## Binary Search
 | index| date | notes |
 |-------|------|-------|

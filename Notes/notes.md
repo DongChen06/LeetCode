@@ -39,6 +39,11 @@ print(str.startswith( 'this' ))
 
 - pop(index), the default value is -1.
 
+- insert() method inserts an element to the list at the specified index.`list.insert(i, elem)`
+e.g.,  `# vowel = ['a', 'e', 'i', 'u'], vowel.insert(3, 'o') >> ['a', 'e', 'i', 'o', 'u']`
+
+
+
 ## String
 - The **replace()** method replaces a specified phrase with another specified phrase. 
   `e.g., s="she is a mother",  s.replace(" ", "") >> "sheisamother"`
@@ -57,6 +62,11 @@ print(str.startswith( 'this' ))
 ## Doubly Linked Lists
 ![img_1.png](imgs/img_1.png)
 
+
+# Stack and Queue
+- **Stack**: last in and first out (LIFO).
+- **Queue**: First in and First out. (FIFO)
+- **Deque**: New items can be added at either the front or the end.
 
 
 # Useful functions
