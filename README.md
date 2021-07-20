@@ -27,6 +27,7 @@
 | 242. Valid Anagram (E)| 2021-07-15 |       |
 |        |      |       |
 
+
 ## Recursion and Dynamic Programming
 
 | index  | date | notes |
@@ -52,7 +53,7 @@
 | 206. Reverse Linked List (E)| 2021-07-10 |  +   |
 | 19. Remove Nth Node From End of List (M)| 2021-07-11 |       |
 |234. Palindrome Linked List (E)|2021-07-12|  |
-|        |      |       |
+| 2. Add Two Numbers (M)|  2021-07-19 |       |
 |        |      |       |
 |        |      |       |
 
@@ -61,7 +62,7 @@
 | index| date | notes |
 |-------|------|-------|
 | 20. Valid Parentheses (E)|2021-07-16 |       |
-| 232. Implement Queue using Stacks (E)|      |       |
+| 232. Implement Queue using Stacks (E)| 2021-07-18 |       |
 |        |      |       |
 |        |      |       |
 

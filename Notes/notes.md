@@ -42,6 +42,9 @@ print(str.startswith( 'this' ))
 - insert() method inserts an element to the list at the specified index.`list.insert(i, elem)`
 e.g.,  `# vowel = ['a', 'e', 'i', 'u'], vowel.insert(3, 'o') >> ['a', 'e', 'i', 'o', 'u']`
 
+- **Attention**, when creating list of class objects, `out = [class] * 4` will make copy of class and will
+be overrupted all the values at the same time. Using `out = [class for i in range(4)]` instead. See Q2
+
 
 
 ## String
@@ -79,6 +82,5 @@ e.g.,  `# vowel = ['a', 'e', 'i', 'u'], vowel.insert(3, 'o') >> ['a', 'e', 'i', 
 The value can be any type (string, number, list, tuple, etc.). `e.g., a = '1231', a.count('1') >> 2` 
 
 - The **sorted()** function returns a sorted list of the specified iterable object. `e.g., sorted("acad") >> "aacd"`
-
 
   
