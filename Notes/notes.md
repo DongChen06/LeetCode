@@ -83,4 +83,4 @@ The value can be any type (string, number, list, tuple, etc.). `e.g., a = '1231'
 
 - The **sorted()** function returns a sorted list of the specified iterable object. `e.g., sorted("acad") >> "aacd"`
 
-  
+- **random.randrange(start, stop)** generates a random number.

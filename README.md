@@ -25,7 +25,7 @@
 | 66. Plus One (E)| 2021-07-14 |       |
 |  268. Missing Number (E)| 2021-07-15|       |
 | 242. Valid Anagram (E)| 2021-07-15 |       |
-|        |      |       |
+|384. Shuffle an Array (M)| 2021-07-20 | ++ deep copy of list |
 
 
 ## Recursion and Dynamic Programming
