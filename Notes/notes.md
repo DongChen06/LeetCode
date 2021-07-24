@@ -72,6 +72,33 @@ be overrupted all the values at the same time. Using `out = [class for i in rang
 - **Deque**: New items can be added at either the front or the end.
 
 
+# Search and Sorting
+## Sequential Search
+
+## Binary Search
+
+## Hashing
+
+## Bubble Sort
+![img2.png](imgs/img2.png)
+
+## Selection Sort
+![img3.png](imgs/img3.png)
+
+## Insertion Sort
+
+
+## Shell Sort
+
+
+## Merge Sort
+
+
+## Quick Sort
+
+
+
+
 # Useful functions
 - check the type of variables: `isinstance(x, int)`.
   

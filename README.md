@@ -10,6 +10,8 @@
 * [Arrays](#arrays)
 * [Recursion and Dynamic Programming](#recursion-and-dynamic-programming)
 * [Fast and Slow Pointers](#fast-and-slow-pointers)
+* [Stack and Queue](#stack-and-queue)
+* [Search and Sorting](#search-and-sorting)
 
 
 ## Arrays
@@ -70,10 +72,10 @@
 |        |      |       |
 
 
-## Binary Search
+## Search and Sorting
 | index| date | notes |
 |-------|------|-------|
-|       |   |       |
+| 704. Binary Search (E)| 2021-07-23|       |
 |        |      |       |
 |        |      |       |
 |        |      |       |
