@@ -30,7 +30,11 @@
 |384. Shuffle an Array (M)| 2021-07-20 | ++ deep copy of list |
 |7. Reverse Integer (E)| 2021-07-21 |       |
 |11. Container With Most Water (M)| 2021-07-25 |       |
-
+|13. Roman to Integer (E)| 2021-07-27 |   |
+|        |      |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |
 
 
 ## Recursion and Dynamic Programming
@@ -47,6 +51,9 @@
 | 198. House Robber (M)| 2021-07-12 | +  |
 |        |      |       |
 |        |      |       |
+|        |      |       |
+|        |      |       |
+
 
 
 ## Fast and Slow Pointers 
@@ -59,8 +66,11 @@
 | 19. Remove Nth Node From End of List (M)| 2021-07-11 |       |
 |234. Palindrome Linked List (E)|2021-07-12|  |
 | 2. Add Two Numbers (M)|  2021-07-19 |       |
+| 82. Remove Duplicates from Sorted List II (M)| 2021-07-27 | +  |
 |        |      |       |
 |        |      |       |
+|        |      |       |
+
 
 
 ## Stack and Queue
@@ -68,8 +78,11 @@
 |-------|------|-------|
 | 20. Valid Parentheses (E)|2021-07-16 |       |
 | 232. Implement Queue using Stacks (E)| 2021-07-18 |       |
+| 155. Min Stack  (E)| 2021-07-27 |  ^  |
 |        |      |       |
 |        |      |       |
+|        |      |       |
+
 
 
 ## Search and Sorting
@@ -79,6 +92,7 @@
 |        |      |       |
 |        |      |       |
 |        |      |       |
-
+|        |      |       |
+|        |      |       |
 
 ##

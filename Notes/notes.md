@@ -45,7 +45,7 @@ e.g.,  `# vowel = ['a', 'e', 'i', 'u'], vowel.insert(3, 'o') >> ['a', 'e', 'i', 
 - **Attention**, when creating list of class objects, `out = [class] * 4` will make copy of class and will
 be overrupted all the values at the same time. Using `out = [class for i in range(4)]` instead. See Q2
 
-
+- **list.index("bar")**: find index of a specific item.
 
 ## String
 - The **replace()** method replaces a specified phrase with another specified phrase. 
