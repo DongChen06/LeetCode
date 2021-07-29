@@ -24,6 +24,7 @@ print(str.startswith( 'this' ))
 ==> True
 ```
 
+- **string.find("s")** and **string.index("s")**: return the index of a specific item.
 
 ## set
 - Set items are unordered, unchangeable, and do not allow duplicate values.
@@ -78,6 +79,10 @@ be overrupted all the values at the same time. Using `out = [class for i in rang
 ## Binary Search
 
 ## Hashing
+- **collections**: Counter: dict subclass for counting hashable objects.
+
+
+
 
 ## Bubble Sort
 ![img2.png](imgs/img2.png)
