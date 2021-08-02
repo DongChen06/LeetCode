@@ -67,7 +67,7 @@
 |234. Palindrome Linked List (E)|2021-07-12|  |
 | 2. Add Two Numbers (M)|  2021-07-19 |       |
 | 82. Remove Duplicates from Sorted List II (M)| 2021-07-27 | +  |
-|        |      |       |
+| 27. Remove Element (E)| 2021-08-01  |       |
 |        |      |       |
 |        |      |       |
 
@@ -79,7 +79,7 @@
 | 20. Valid Parentheses (E)|2021-07-16 |       |
 | 232. Implement Queue using Stacks (E)| 2021-07-18 |       |
 | 155. Min Stack  (E)| 2021-07-27 |  ^  |
-|        |      |       |
+| 641. Design Circular Deque (M)| 2021-08-01 |       |
 |        |      |       |
 |        |      |       |
 
