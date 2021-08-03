@@ -33,7 +33,7 @@
 |13. Roman to Integer (E)| 2021-07-27 |   |
 | 3. Longest Substring Without Repeating Characters (M)| 2021-07-28 |       |
 | 409. Longest Palindrome (E)| 2021-07-31 |       |
-|        |      |       |
+| 383. Ransom Note (E)| 2021-08-02 |       |
 |        |      |       |
 
 
@@ -90,7 +90,7 @@
 |-------|------|-------|
 | 704. Binary Search (E)| 2021-07-23|       |
 | 169. Majority Element (E)|2021-07-29 |  +   |
-|        |      |       |
+| 15. 3Sum (M) | 2021-08-02 | +   |
 |        |      |       |
 |        |      |       |
 |        |      |       |
