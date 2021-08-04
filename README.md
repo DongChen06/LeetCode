@@ -80,7 +80,7 @@
 | 232. Implement Queue using Stacks (E)| 2021-07-18 |       |
 | 155. Min Stack  (E)| 2021-07-27 |  ^  |
 | 641. Design Circular Deque (M)| 2021-08-01 |       |
-|        |      |       |
+|  225. Implement Stack using Queues (E)| 2021-08-03 |       |
 |        |      |       |
 
 
@@ -91,7 +91,7 @@
 | 704. Binary Search (E)| 2021-07-23|       |
 | 169. Majority Element (E)|2021-07-29 |  +   |
 | 15. 3Sum (M) | 2021-08-02 | +   |
-|        |      |       |
+| 69. Sqrt(x) (E)| 2021-08-03 | +  |
 |        |      |       |
 |        |      |       |
 
