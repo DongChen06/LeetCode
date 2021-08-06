@@ -34,6 +34,10 @@
 | 3. Longest Substring Without Repeating Characters (M)| 2021-07-28 |       |
 | 409. Longest Palindrome (E)| 2021-07-31 |       |
 | 383. Ransom Note (E)| 2021-08-02 |       |
+| 5. Longest Palindromic Substring (M)| 2021-08-05|  +  |
+|        |      |       |
+|        |      |       |
+|        |      |       |
 |        |      |       |
 
 
