@@ -26,10 +26,14 @@ print(str.startswith( 'this' ))
 
 - **string.find("s")** and **string.index("s")**: return the index of a specific item.
 
+
+
 ## set
 - Set items are unordered, unchangeable, and do not allow duplicate values.
   
 - It is a good tool to check duplicate.
+
+
 
 ## list
 - remove elements:
@@ -47,6 +51,11 @@ e.g.,  `# vowel = ['a', 'e', 'i', 'u'], vowel.insert(3, 'o') >> ['a', 'e', 'i', 
 be overrupted all the values at the same time. Using `out = [class for i in range(4)]` instead. See Q2
 
 - **list.index("bar")**: find index of a specific item.
+
+## dictionary
+- **get()**:  returns the value of the item with the specified key.
+e.g., `car = {"model": "Mustang"}, x = car.get("model")`
+
 
 ## String
 - The **replace()** method replaces a specified phrase with another specified phrase. 
@@ -116,3 +125,6 @@ The value can be any type (string, number, list, tuple, etc.). `e.g., a = '1231'
 - The **sorted()** function returns a sorted list of the specified iterable object. `e.g., sorted("acad") >> "aacd"`
 
 - **random.randrange(start, stop)** generates a random number.
+
+- max(iterable, *[, key, default]): Return the largest item in an iterable or the largest of two or more arguments.
+e.g., `max(count.keys(), key = count.get)` (T.169)

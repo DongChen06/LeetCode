@@ -35,9 +35,9 @@
 | 409. Longest Palindrome (E)| 2021-07-31 |       |
 | 383. Ransom Note (E)| 2021-08-02 |       |
 | 5. Longest Palindromic Substring (M)| 2021-08-05|  +  |
-|        |      |       |
-|        |      |       |
-|        |      |       |
+| 169. Majority Element (E)| 2021-08-06 |   +   |
+| 8. String to Integer (atoi) (M)|   2021-08-07 |   +    |
+| 9. Palindrome Number |  2021-08-07 |       |
 |        |      |       |
 
 
