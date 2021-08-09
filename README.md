@@ -38,7 +38,14 @@
 | 169. Majority Element (E)| 2021-08-06 |   +   |
 | 8. String to Integer (atoi) (M)|   2021-08-07 |   +    |
 | 9. Palindrome Number |  2021-08-07 |       |
+| 12. Integer to Roman (M)| 2021-08-09 |       |
+| 14. Longest Common Prefix (E)| 2021-08-09 |       |
 |        |      |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |
+
 
 
 ## Recursion and Dynamic Programming
