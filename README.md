@@ -41,7 +41,7 @@
 | 12. Integer to Roman (M)| 2021-08-09 |       |
 | 14. Longest Common Prefix (E)| 2021-08-09 |       |
 | 26. Remove Duplicates from Sorted Array (E)|2021-08-10 |       |
-|        |      |       |
+| 16. 3Sum Closest(M)  |2021-08-11|   +  |
 |        |      |       |
 |        |      |       |
 |        |      |       |
