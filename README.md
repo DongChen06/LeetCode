@@ -79,7 +79,7 @@
 | 2. Add Two Numbers (M)|  2021-07-19 |       |
 | 82. Remove Duplicates from Sorted List II (M)| 2021-07-27 | +  |
 | 27. Remove Element (E)| 2021-08-01  |       |
-|        |      |       |
+| 24. Swap Nodes in Pairs (M) | 2021-08-16 |  ++   |
 |        |      |       |
 
 
@@ -103,7 +103,7 @@
 | 169. Majority Element (E)|2021-07-29 |  +   |
 | 15. 3Sum (M) | 2021-08-02 | +   |
 | 69. Sqrt(x) (E)| 2021-08-03 | +  |
-|        |      |       |
+| 31. Next Permutation (M)| 2021-08-17 |  ++   |
 |        |      |       |
 
 ##
