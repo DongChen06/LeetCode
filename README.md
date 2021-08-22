@@ -44,8 +44,10 @@
 | 16. 3Sum Closest(M)  |2021-08-11|   +  |
 | 35. Search Insert Position (E)| 2021-08-18 |       |
 | 48. Rotate Image (M)| 2021-08-18 |  +   |
+| 43. Multiply Strings (M) | 2021-08-21 |       |
 |        |      |       |
-
+|        |      |       |
+|        |      |       |
 
 
 ## Recursion and Dynamic Programming
@@ -62,10 +64,11 @@
 | 198. House Robber (M)| 2021-07-12 | +  |
 | 118. Pascal's Triangle (E)| 2021-07-28 |       |
 | 17. Letter Combinations of a Phone Number (M)| 2021-08-15 | Backtrack |
+| 45. Jump Game II (M) | 2021-08-21 |       |
+| 55. Jump Game (M)  | 2021-08-21 |       |
 |        |      |       |
 |        |      |       |
-
-
+|        |      |       |
 
 ## Fast and Slow Pointers 
 
