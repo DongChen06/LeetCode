@@ -1,20 +1,23 @@
 # LeetCode in Python
+
 - E indicate Easy, M indicate Medium and H indicate Hard.
 - "+" means need to redo.
 - "-" means failed to solve.
 - "?" means cannot understand the purpose of this problem.
 - "^" means needing a faster solution.
 
-
 ## Contents
+
 * [Arrays](#arrays)
 * [Recursion and Dynamic Programming](#recursion-and-dynamic-programming)
 * [Fast and Slow Pointers](#fast-and-slow-pointers)
 * [Stack and Queue](#stack-and-queue)
 * [Search and Sorting](#search-and-sorting)
+* [Trees and Graphs](#trees-and-graphs)
 
 
 ## Arrays
+
 | index | date | notes |
 |-------|------|-------|
 |  212.Contains Duplicate (E) |  2021-06-26    |       |
@@ -49,7 +52,6 @@
 |        |      |       |
 |        |      |       |
 
-
 ## Recursion and Dynamic Programming
 
 | index  | date | notes |
@@ -70,7 +72,7 @@
 |        |      |       |
 |        |      |       |
 
-## Fast and Slow Pointers 
+## Fast and Slow Pointers
 
 | index | date | notes |
 |-------|------|-------|
@@ -84,10 +86,17 @@
 | 27. Remove Element (E)| 2021-08-01  |       |
 | 24. Swap Nodes in Pairs (M) | 2021-08-16 |  ++   |
 |        |      |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |
 
 
 
 ## Stack and Queue
+
 | index| date | notes |
 |-------|------|-------|
 | 20. Valid Parentheses (E)|2021-07-16 |       |
@@ -96,10 +105,16 @@
 | 641. Design Circular Deque (M)| 2021-08-01 |       |
 |  225. Implement Stack using Queues (E)| 2021-08-03 |       |
 |        |      |       |
-
+|        |      |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |
 
 
 ## Search and Sorting
+
 | index| date | notes |
 |-------|------|-------|
 | 704. Binary Search (E)| 2021-07-23|       |
@@ -108,5 +123,22 @@
 | 69. Sqrt(x) (E)| 2021-08-03 | +  |
 | 31. Next Permutation (M)| 2021-08-17 |  ++   |
 |        |      |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |
 
-##
+
+
+## Trees and Graphs
+| 98. Validate Binary Search Tree (M)| 2021-08-23 |  +   |
+| 100. Same Tree (E)| 2021-08-23|       |
+| 94. Binary Tree Inorder Traversal (E)| 2021-08-23 |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |
+|        |      |       |

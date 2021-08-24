@@ -128,3 +128,6 @@ The value can be any type (string, number, list, tuple, etc.). `e.g., a = '1231'
 
 - max(iterable, *[, key, default]): Return the largest item in an iterable or the largest of two or more arguments.
 e.g., `max(count.keys(), key = count.get)` (T.169)
+
+- map(fun, iter): returns a map object(which is an iterator) of the results after applying the given function to each item of a given iterable (list, tuple etc.)
+e.g., `map(str, [1, 2, 3]) --> ['1', '2', '3']`
