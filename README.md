@@ -122,8 +122,8 @@
 | 15. 3Sum (M) | 2021-08-02 | +   |
 | 69. Sqrt(x) (E)| 2021-08-03 | +  |
 | 31. Next Permutation (M)| 2021-08-17 |  ++   |
-|        |      |       |
-|        |      |       |
+| 33. Search in Rotated Sorted Array (M)  | 2021-08-26  |  +   |
+|  34. Find First and Last Position of Element in Sorted Array (M) |2021-08-26 |       |
 |        |      |       |
 |        |      |       |
 |        |      |       |
@@ -133,6 +133,8 @@
 
 
 ## Trees and Graphs
+| index| date | notes |
+|-------|------|-------|
 | 98. Validate Binary Search Tree (M)| 2021-08-23 |  +   |
 | 100. Same Tree (E)| 2021-08-23|       |
 | 94. Binary Tree Inorder Traversal (E)| 2021-08-23 |       |
