@@ -48,9 +48,13 @@
 | 35. Search Insert Position (E)| 2021-08-18 |       |
 | 48. Rotate Image (M)| 2021-08-18 |  +   |
 | 43. Multiply Strings (M) | 2021-08-21 |       |
+|49. Group Anagrams (M) |2021-08-29 |       |
+| 36. Valid Sudoku (M)  | 2021-08-30 |       |
 |        |      |       |
 |        |      |       |
 |        |      |       |
+|        |      |       |
+
 
 ## Recursion and Dynamic Programming
 
