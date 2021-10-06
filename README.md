@@ -50,7 +50,7 @@
 | 43. Multiply Strings (M) | 2021-08-21 |       |
 |49. Group Anagrams (M) |2021-08-29 |       |
 | 36. Valid Sudoku (M)  | 2021-08-30 |       |
-|        |      |       |
+| 848. Shifting Letters (M)| 2021-09-08  | ord() and chr()  |
 |        |      |       |
 |        |      |       |
 |        |      |       |
@@ -60,7 +60,7 @@
 
 | index  | date | notes |
 |-------|------|-------|
-| 70. Climbing Stairs (E)  | 2021-06-28 |  +   |
+| 70. Climbing Stairs (E)  | 2021-06-28 |   |
 |121. Best Time to Buy and Sell Stock (E) |  2021-06-28 |  +   |
 |53. Maximum Subarray (E) | 2021-07-05 |   -  |
 | 303. Range Sum Query - Immutable (E)| 2021-07-05 | ?   |
@@ -72,9 +72,15 @@
 | 17. Letter Combinations of a Phone Number (M)| 2021-08-15 | Backtrack |
 | 45. Jump Game II (M) | 2021-08-21 |       |
 | 55. Jump Game (M)  | 2021-08-21 |       |
+| 198. House Robber (E) | 2021-09-11 |       |
+| 1911. Maximum Alternating Subsequence Sum (M)| 2021-09-12 |  +   |
+| 300. Longest Increasing Subsequence (M)| 2021-09-12 |  +   |
+| 416. Partition Equal Subset Sum (M)| 2021-09-12  |   +  |
+| 213. House Robber II (M) | 2021-09-26  |       |
 |        |      |       |
 |        |      |       |
-|        |      |       |
+
+
 
 ## Fast and Slow Pointers
 

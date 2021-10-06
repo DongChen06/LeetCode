@@ -119,15 +119,20 @@ e.g., `car = {"model": "Mustang"}, x = car.get("model")`
 - **bin()**: returns the binary string equivalent to the given integer. `e.g., bin(number) >> 0b101`, where
 `ob`  represents that the result is a binary string.
   
-- The **count()** method returns the number of elements with the specified value. `e.g., list.count(value)`, where 
+- **count()** method returns the number of elements with the specified value. `e.g., list.count(value)`, where 
 The value can be any type (string, number, list, tuple, etc.). `e.g., a = '1231', a.count('1') >> 2` 
 
-- The **sorted()** function returns a sorted list of the specified iterable object. `e.g., sorted("acad") >> "aacd"`
+- **sorted()** function returns a sorted list of the specified iterable object. `e.g., sorted("acad") >> "aacd"`
+`sorted(list, key=x)`
 
 - **random.randrange(start, stop)** generates a random number.
 
-- max(iterable, *[, key, default]): Return the largest item in an iterable or the largest of two or more arguments.
+- **max(iterable, *[, key, default])**: Return the largest item in an iterable or the largest of two or more arguments.
 e.g., `max(count.keys(), key = count.get)` (T.169)
 
-- map(fun, iter): returns a map object(which is an iterator) of the results after applying the given function to each item of a given iterable (list, tuple etc.)
+- **map(fun, iter)**: returns a map object(which is an iterator) of the results after applying the given function to each item of a given iterable (list, tuple etc.)
 e.g., `map(str, [1, 2, 3]) --> ['1', '2', '3']`
+- **lambda argument_list: expression**: `list(map(lambda x: (float(5)/9)*(x-32), F))`
+
+- **ord()** method in Python converts a character into its Unicode code value. 
+- **chr()** method returns a character (a string) from an integer (represents unicode code point of the character). 
