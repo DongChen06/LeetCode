@@ -53,8 +53,8 @@ be overrupted all the values at the same time. Using `out = [class for i in rang
 - **list.index("bar")**: find index of a specific item.
 
 ## dictionary
-- **get()**:  returns the value of the item with the specified key.
-e.g., `car = {"model": "Mustang"}, x = car.get("model")`
+- **get(keyname, value)**:  returns the value of the item with the specified key. **value** means return value if key is not exist.
+e.g., `car = {"model": "Mustang"}, x = car.get("model", 0)`. 
 
 
 ## String
@@ -64,7 +64,10 @@ e.g., `car = {"model": "Mustang"}, x = car.get("model")`
 - The lower() method returns a string where all characters are lower case.
     'e.g., s="She is A Mother",  s.lower() >> "she is a mother"'
 
+- **isalnum()** method returns True if all characters in the string are alphanumeric (either alphabets or numbers). If not, it returns False.
 
+- **lower()** method returns a string where all characters are lower case.
+`filter_s = filter_s.lower()`
 
 
 # Linked Lists (Fast Slow Pointers)
@@ -89,8 +92,6 @@ e.g., `car = {"model": "Mustang"}, x = car.get("model")`
 
 ## Hashing
 - **collections**: Counter: dict subclass for counting hashable objects.
-
-
 
 
 ## Bubble Sort
@@ -123,16 +124,17 @@ e.g., `car = {"model": "Mustang"}, x = car.get("model")`
 The value can be any type (string, number, list, tuple, etc.). `e.g., a = '1231', a.count('1') >> 2` 
 
 - **sorted()** function returns a sorted list of the specified iterable object. `e.g., sorted("acad") >> "aacd"`
-`sorted(list, key=x)`
+- `sorted(list, key=x)`, e.g., `intervals.sort(key=lambda x: x[0])`, where `x = [[0, 1], [2, 4]]`
+- `sorted(a, reverse=True)`
 
 - **random.randrange(start, stop)** generates a random number.
 
 - **max(iterable, *[, key, default])**: Return the largest item in an iterable or the largest of two or more arguments.
 e.g., `max(count.keys(), key = count.get)` (T.169)
 
-- **map(fun, iter)**: returns a map object(which is an iterator) of the results after applying the given function to each item of a given iterable (list, tuple etc.)
+- **map(func, iter)**: returns a map object(which is an iterator) of the results after applying the given function to each item of a given iterable (list, tuple etc.)
 e.g., `map(str, [1, 2, 3]) --> ['1', '2', '3']`
-- **lambda argument_list: expression**: `list(map(lambda x: (float(5)/9)*(x-32), F))`
+- **lambda argument_list: func**: `list(map(lambda x: (float(5)/9)*(x-32), F))`
 
 - **ord()** method in Python converts a character into its Unicode code value. 
 - **chr()** method returns a character (a string) from an integer (represents unicode code point of the character). 

@@ -6,6 +6,7 @@
 - "?" means cannot understand the purpose of this problem.
 - "^" means needing a faster solution.
 
+
 ## Contents
 
 * [Arrays](#arrays)
@@ -51,7 +52,7 @@
 |49. Group Anagrams (M) |2021-08-29 |       |
 | 36. Valid Sudoku (M)  | 2021-08-30 |       |
 | 848. Shifting Letters (M)| 2021-09-08  | ord() and chr()  |
-|        |      |       |
+| 56. Merge Intervals (M) | 2021-10-06 |       |
 |        |      |       |
 |        |      |       |
 
@@ -150,7 +151,7 @@
 | 94. Binary Tree Inorder Traversal (E)| 2021-08-23 |       |
 | 96. Unique Binary Search Trees (M)  | 2021-09-02 |       |
 | 95. Unique Binary Search Trees II (M) | 2021-09-07 |  ++ |
-|        |      |       |
+| 987. Vertical Order Traversal of a Binary Tree (H)| 2021-10-08 |       |
 |        |      |       |
 |        |      |       |
 |        |      |       |
