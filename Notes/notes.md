@@ -100,6 +100,7 @@ e.g., `car = {"model": "Mustang"}, x = car.get("model", 0)`.
 ## Selection Sort
 ![img3.png](imgs/img3.png)
 
+
 ## Insertion Sort
 
 
@@ -110,7 +111,6 @@ e.g., `car = {"model": "Mustang"}, x = car.get("model", 0)`.
 
 
 ## Quick Sort
-
 
 
 
