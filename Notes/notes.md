@@ -134,7 +134,7 @@ e.g., `max(count.keys(), key = count.get)` (T.169)
 
 - **map(func, iter)**: returns a map object(which is an iterator) of the results after applying the given function to each item of a given iterable (list, tuple etc.)
 e.g., `map(str, [1, 2, 3]) --> ['1', '2', '3']`
-- **lambda argument_list: func**: `list(map(lambda x: (float(5)/9)*(x-32), F))`
+- **lambda iter: func**: `list(map(lambda x: (float(5)/9)*(x-32), F))`
 
 - **ord()** method in Python converts a character into its Unicode code value. 
 - **chr()** method returns a character (a string) from an integer (represents unicode code point of the character). 
